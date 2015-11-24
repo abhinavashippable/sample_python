@@ -6,6 +6,8 @@ python:
 env:
  global:
   - dev=aaa
+  - dev2=aaa1
+  - dev3=aaa4
  matrix:
   - test3=abcd
 
